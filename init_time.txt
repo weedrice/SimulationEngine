@@ -1,0 +1,27 @@
+FirehouseAndHugeH1 : 15
+FirehouseAndHugeH2 : 20 
+FirehouseAndHugeH3 : 10
+DisasterAndHugeH1 : 38 
+DisasterAndHugeH2 : 43
+DisasterAndHugeH3 : 40
+DisasterAndSmallH1 : 21
+DisasterAndSmallH2 : 25
+DisasterAndSmallH3 : 20
+DisasterAndSmallH4 : 21
+DisasterAndSmallH5 : 19
+SmallH1AndHugeH1 : 30
+SmallH2AndHugeH1 : 29
+SmallH3AndHugeH1 : 30
+SmallH4AndHugeH1 : 24
+SmallH5AndHugeH1 : 23
+SmallH1AndHugeH2 : 15
+SmallH2AndHugeH2 : 29
+SmallH3AndHugeH2 : 19
+SmallH4AndHugeH2 : 30
+SmallH5AndHugeH2 : 30
+SmallH1AndHugeH3 : 27
+SmallH2AndHugeH3 : 27
+SmallH3AndHugeH3 : 19
+SmallH4AndHugeH3 : 28
+SmallH5AndHugeH3 : 24
+-

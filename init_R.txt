@@ -1,0 +1,4 @@
+XrayPercent : 70
+CTPercent : 40
+ClinicPercent : 20
+-----

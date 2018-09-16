@@ -1,0 +1,7 @@
+Xray_Min : 5
+Xray_Max : 10
+CT_Min : 15
+CT_Max : 35
+Clinic_Min : 40
+Clinic_Max : 60
+-----

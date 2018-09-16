@@ -1,0 +1,12 @@
+surgery_room : 10
+num_nurse : 80
+num_doctor : 25
+num_burn : 17
+num_nerve : 10
+num_spine : 20
+num_fracture : 15
+num_chest : 11
+x_ray_room : 5
+clinic_room : 2
+ct_room : 3
+-

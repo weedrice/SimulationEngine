@@ -1,0 +1,21 @@
+id : 1
+doctorId : 0
+gapTime : 16
+minTime : 15
+gapTimeID : 11
+minTimeID : 15
+-
+id : 1
+doctorId : 1
+gapTime : 16
+minTime : 15
+gapTimeID : 11
+minTimeID : 15
+-
+id : 1
+doctorId : 2
+gapTime : 16
+minTime : 15
+gapTimeID : 11
+minTimeID : 15
+-
